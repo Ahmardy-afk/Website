@@ -1,0 +1,91 @@
+        body{
+            background-color: grey;
+        }
+        p{
+            text-align: center;
+            color:yellow;
+        }
+        div{
+            text-align: center;
+        }
+        
+            .pic{
+                border-radius: 100px;
+                width: 200px;
+                margin-left: 55px;
+                box-shadow: 0 5px blue;
+            }
+            .p1{
+                border:2px solid white;
+                position: relative;
+                width:300px;
+                height: 40px;
+                background-color:blue;
+            }
+            .p2{
+                border:2px solid blue;
+                position:relative;
+                width: 300px;
+                height: 40px;
+                background-color: white;
+            }
+            .p3{
+                border:2px solid white;
+                position: relative;
+                width: 300px;
+                height: 40px;
+                background-color: blue;
+            }
+            .p4{
+                border:2px solid blue;
+                position: relative
+                width: 300px;
+                height: 40px;
+                background-color: white;
+            }
+            .p5{
+                border:2px solid white;
+                position: relative
+                width: 300px;
+                height: 40px;
+                background-color: blue;
+            }
+            .p6{
+                border:2px solid blue;
+                position: relative;
+                width: 300px;
+                height: 40px;
+                background-color: white;
+            }
+            .p7{
+                border:2px solid white;
+                position: relative
+                width: 300px;
+                height: 40px;
+                background-color: blue;
+            }
+            .p10{
+                border:2px solid blue;
+                position: relative;
+                width: 300px;
+                height: 40px;
+                background-color:white;
+            }
+            .p11{
+                border:2px solid white;
+                position: relative
+                width:300px;
+                height: 40px;
+                background-color: blue;
+            }
+            .q{
+                border-radius:100px ;
+                width: 80px;
+            }
+           .q {label for="three.png"}
+                top: -40px;
+            }
+            h2{
+                background-color: yellow;
+            }
+    
